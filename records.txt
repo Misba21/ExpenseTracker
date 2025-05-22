@@ -1,4 +1,0 @@
-2025-05-22,Income,salary,45000.0
-2025-05-22,Expense,rent,10000.0
-2025-05-22,Income,business,50000.0
-2025-05-22,Expense,1,1500.0
